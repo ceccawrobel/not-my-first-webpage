@@ -12,4 +12,4 @@ This repository contains two very simple webpages made with basic html block ele
 * Consider how different you might feel were they styled up a bit.
 
 ## License
-(c) 2019
+(c) cecca 2019
